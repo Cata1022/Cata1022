@@ -3,7 +3,7 @@
 I am a passionate Software Engineering student at the Faculty of Automatic Control and Computers UPB exploring low-level systems programming, machine learning, and software architecture
 
 ### Tech skills
-* **Languages:** C, C++, Java, Rust, Scala, Matlab
+* **Languages:** C, C++, Java, Python, Rust, Scala, Matlab
 * **Concepts:** OOP, Functional Programming, Memory Management, Multithreading
 
 ### Featured Projects
